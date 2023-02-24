@@ -1,14 +1,16 @@
 # Churros
 
+- INGREDIENTES
 
-
-Ingredientes:
-
-- Grupos de amigos tecnológicos.
-
-- Horas e mais horas de cursos;
-
-- Mas mesmo assim mantendo algo de vida social - opcional.
-
+  - 1 e 1/2 xícara (chá) de leite
+  - 1/2 xícara (chá) de água
+  - 2 colheres (sopa) de margarina ou manteiga
+  - 2 xícaras (chá) de farinha de trigo
+  - sal a gosto
+  - açúcar a gosto
+  - canela a gosto
+  
+  
+  
   
 
