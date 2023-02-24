@@ -1,1 +1,0 @@
-Um exemplo prático relacionado a aula do  Git
