@@ -1,7 +1,8 @@
-# Seja bem vindo ao nosso livro de receitas DIO.
+#### Seja bem vindo ao nosso livro de receitas DIO.
 
-###### Iremos fazer um pequeno teste dos comandos, ou seja, um monte de receitas hi-tech como treino.
+Uma brincadeirinha para treinar os comandos do git.
 
-- Brigadeiro;
-- Churros;
+Iremos começar com os doces, adicionando um pouco de TECH a receita - e sim, layout bem  simples, não vou gastar tempo com isso.
+
+
 
